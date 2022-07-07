@@ -44,7 +44,7 @@ global.ppulsa2 = '081946945315'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '447533021061'
+global.nomorbot = '628564660905'
 global.nomorown = '6281946945315'
 global.namebot = 'RAF BOTZ'
 global.nameown = 'ASYRAF 6YOUU'
@@ -100,12 +100,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 REF BOTZ あ⁩ 」' //Main Watermark
-global.wm2 = 'REF BOTZ•WHATSAPP'
-global.wm3 = 'REF BOTZ'
+global.wm = '「 RAF BOTZ あ⁩ 」' //Main Watermark
+global.wm2 = 'RAF BOTZ•WHATSAPP'
+global.wm3 = 'RAF BOTZ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ Ref Botz'
+global.titlebot = '🌱 ┊ RAf Botz'
 global.author = global.wm
 
 
