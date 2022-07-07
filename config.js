@@ -1,4 +1,19 @@
+// S C R I P T  O R I  B Y  @BochilGaming 🔭
+// M A D E  B Y  Letta - Sama 🐰  
+// Credits, jangan dihapus atau diubah!
 
+// - - THANKS TO - -
+// • Allah SWT
+// • Nurutomo
+// • Bochilgaming
+// • Rominaru
+// • Kannachann
+// • The.Sad.Boy01
+// • Rasel comel
+// • Xtreshe (Beban)
+// • Dll
+
+//[!] Jangan Dihapus, mending ditambahin 
 
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
@@ -29,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/asyrafsixyouu'
-global.sgh = 'https://github.com/Rafbotzbaru'
-global.sgc = 'https://chat.whatsapp.com/CRrj0z3HgeX39XHNUt0M9V'
+global.sig = 'https://www.instagram.com/kontol_elite'
+global.sgh = 'https://github.com/Jikarinka'
+global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
 global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085646606905'
-global.povo = '-'
-global.pgopay = '081946945315'
-global.ppulsa = '085646606905'
-global.ppulsa2 = '081946945315'
+global.pdana = '085334930628'
+global.povo = '085712420674'
+global.pgopay = '085712420674'
+global.ppulsa = '085334930628'
+global.ppulsa2 = '081336990781'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '447533021061'
-global.nomorown = '6281946945315'
-global.namebot = 'RAF BOTZ'
-global.nameown = 'ASYRAF 6YOUU'
+global.nomorown = '6285334930628'
+global.namebot = 'Kanna BOT'
+global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281946945315'],
-  ['6285646606905'],
-  ['447533021061'],
-  ['6281946945315', 'ASYRAF 6YOUU', true]
+  ['6285334930628'],
+  ['6285334930628'],
+  ['18126338970'],
+  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -100,12 +115,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 REF BOTZ あ⁩ 」' //Main Watermark
-global.wm2 = 'REF BOTZ•WHATSAPP'
-global.wm3 = 'REF BOTZ'
+global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ Ref Botz'
+global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
 global.author = global.wm
 
 
@@ -118,8 +133,8 @@ global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading Ke Lubang Kontol Bapak Lu...```'
-global.eror = '```404 error tolol```'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
+global.eror = '```404 error```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -158,8 +173,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Sticker by'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Ref Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickpack = '.'
+global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
